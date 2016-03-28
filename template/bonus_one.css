@@ -1,6 +1,6 @@
 /*
   Don't forget to style the results from the search!
-  And anything elese you add to the application, for that matter.
+  And anything else you add to the application, for that matter.
 */
 
 .flexsearch-wrapper {
@@ -86,6 +86,22 @@
 
 input:-moz-placeholder {
   color: #888;
+}
+body {
+	background: black;
+}
+
+ul {
+	list-style-type: none;
+	background: #333;
+	padding: 20px;
+}
+ul li {
+    background: #ccc;
+    margin: 5px;
+}
+a {
+	color: black;
 }
 
 .h1 {
