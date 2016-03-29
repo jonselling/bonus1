@@ -33,8 +33,6 @@ $.getJSON("http://www.mattbowytz.com/simple_api.json?data=all", function(my_data
 	MyArray = FullArray;
 });
 
-console.log('Keepin\'n it clean with an external script!');
-
 function myfunction(){
 	var input;
 	var found;
